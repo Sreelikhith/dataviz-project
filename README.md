@@ -16,8 +16,10 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+![IMG_0421](https://github.com/Sreelikhith/dataviz-project/assets/128874576/4fd291b4-11fa-4837-9322-b7225044ce76)
+
+
+The multiple bar charts with filters and selection buttons that allow the user to navigate through the data dynamically. For instance, one sketch might show a bar chart comparing average salaries across job categories, with buttons to toggle between different experience levels. Another sketch could visualize the count of jobs by employment type, with the ability to drill down into specific regions or job categories. Each visualization would offer interactive elements such as hover details, clickable legends, and filters to refine the view based on the user's interests, directly addressing the questions and tasks outlined above.
 
 
 ## Prototypes
