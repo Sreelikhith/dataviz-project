@@ -24,7 +24,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
+[![image](file:///Users/likhithdasari/Desktop/Screenshot%202024-03-14%20at%201.39.48%E2%80%AFAM.png)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
@@ -45,9 +45,9 @@ While I am confident in the project's direction, I'm still exploring the best ap
 
 ## Milestones
 
-Week 1: Finalize dataset preparation and initial data analysis.
-Week 2: Develop the prototype with basic interactivity and visualizations focusing on salary insights.
-Week 3: Expand the prototype to include other visualizations and employment type distributions.
-Week 4: Refine interactivity features, such as filters and toggles, to enhance user engagement and exploration.
-Week 5: Gather feedback and identify areas for improvement.
-Week 6: Implement feedback, improve the visualizations and usability, and prepare the final presentation.
+* Week 1: Finalize dataset preparation and initial data analysis.
+* Week 2: Develop the prototype with basic interactivity and visualizations focusing on salary insights.
+* Week 3: Expand the prototype to include other visualizations and employment type distributions.
+* Week 4: Refine interactivity features, such as filters and toggles, to enhance user engagement and exploration.
+* Week 5: Gather feedback and identify areas for improvement.
+* Week 6: Implement feedback, improve the visualizations and usability, and prepare the final presentation.
