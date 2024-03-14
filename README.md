@@ -22,22 +22,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-
-[![image](https://Users/likhithdasari/Desktop/Screenshot%202024-03-14%20at%201.39.48%E2%80%AFAM.png)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
+I’ve created a proof of concept visualization of this data.
 
 
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+<img width="968" alt="Screenshot 2024-03-14 at 1 39 48 AM" src="https://github.com/Sreelikhith/dataviz-project/assets/128874576/3a1a3d58-bed7-46f7-8614-60e76baf331a">
+(https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
+
 
 ## Open Questions
 
