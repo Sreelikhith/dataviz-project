@@ -2,17 +2,17 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project comprises detailed information on jobs in the data field. This dataset includes various attributes such as job titles, categories, salary information in both local currency and USD, employee residence, company location, experience level, employment type, work setting, and company size. The dataset spans multiple years and covers a wide range of positions within the data science and analytics industry worldwide.
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How does the average salary vary across different job categories and experience levels?
+ * Is there a correlation between company size and salary ranges for data field positions?
+ * Are there interesting geographical patterns in where data jobs are located versus where employees reside?
+ * How does the distribution of employment types (full-time, part-time, contract) and work settings (remote, in-person, hybrid) vary across different regions and job categories?
 
 ## Sketches
 
@@ -24,7 +24,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
@@ -41,8 +41,13 @@ Also, you can study the [source](https://raw.githubusercontent.com/curran/datavi
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+While I am confident in the project's direction, I'm still exploring the best approaches to implement button functionality effectively in the visualizations and making the visualization responsive and intuitive for users with varying levels of familiarity with data analysis.
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 1: Finalize dataset preparation and initial data analysis.
+Week 2: Develop the prototype with basic interactivity and visualizations focusing on salary insights.
+Week 3: Expand the prototype to include other visualizations and employment type distributions.
+Week 4: Refine interactivity features, such as filters and toggles, to enhance user engagement and exploration.
+Week 5: Gather feedback and identify areas for improvement.
+Week 6: Implement feedback, improve the visualizations and usability, and prepare the final presentation.
