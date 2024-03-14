@@ -24,7 +24,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](file:///Users/likhithdasari/Desktop/Screenshot%202024-03-14%20at%201.39.48%E2%80%AFAM.png)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
+[![image](https://Users/likhithdasari/Desktop/Screenshot%202024-03-14%20at%201.39.48%E2%80%AFAM.png)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
