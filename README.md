@@ -37,9 +37,9 @@ While I am confident in the project's direction, I'm still exploring the best ap
 
 ## Milestones
 
-* Week 1: Finalize dataset preparation and initial data analysis.
-* Week 2: Develop the prototype with basic interactivity and visualizations focusing on salary insights.
-* Week 3: Expand the prototype to include other visualizations and employment type distributions.
-* Week 4: Refine interactivity features, such as filters and toggles, to enhance user engagement and exploration.
-* Week 5: Gather feedback and identify areas for improvement.
-* Week 6: Implement feedback, improve the visualizations and usability, and prepare the final presentation.
+* Week 9: Finalize dataset preparation and initial data analysis.
+* Week 10: Develop the prototype with basic interactivity and visualizations focusing on salary insights.
+* Week 11-12: Expand the prototype to include other visualizations and employment type distributions.
+* Week 13-14: Refine interactivity features, such as filters and toggles, to enhance user engagement and exploration.
+* Week 15: Gather feedback and identify areas for improvement.
+* Week 16: Implement feedback, improve the visualizations and usability, and prepare the final presentation.
