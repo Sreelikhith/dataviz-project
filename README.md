@@ -18,8 +18,9 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![IMG_0421](https://github.com/Sreelikhith/dataviz-project/assets/128874576/4fd291b4-11fa-4837-9322-b7225044ce76)
 
+![IMG_0422](https://github.com/Sreelikhith/dataviz-project/assets/128874576/84492609-894c-46f6-9e1e-c7cd0259bbb4)
 
-The multiple bar charts with filters and selection buttons that allow the user to navigate through the data dynamically. For instance, one sketch might show a bar chart comparing average salaries across job categories, with buttons to toggle between different experience levels. Another sketch could visualize the count of jobs by employment type, with the ability to drill down into specific regions or job categories. Each visualization would offer interactive elements such as hover details, clickable legends, and filters to refine the view based on the user's interests, directly addressing the questions and tasks outlined above.
+The project will feature an array of interactive visualizations, including multiple bar charts equipped with dynamic filters and selection buttons, enabling users to navigate the data with ease and precision. For example, one visualization could offer a comparative view of average salaries across job categories, with the functionality to toggle between different experience levels at the click of a button. Another might display the distribution of jobs by employment type, allowing for deeper exploration into specific regions or job categories. To further enhance user experience and coherence across these interactive elements, a unified filter panel will be introduced. This panel will allow users to refine their view across various metrics—such as job category, experience level, and region—through a singular, streamlined action. This design approach not only enriches the navigation experience but also ensures that users can easily access and interact with the data according to their specific interests and inquiries, making the complex data landscape both accessible and engaging.
 
 
 ## Prototypes
