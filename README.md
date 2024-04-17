@@ -76,3 +76,9 @@ I’ve created a proof of concept visualization of this data.
 * Week 13-14: Refine interactivity features, such as filters and toggles, to enhance user engagement and exploration.
 * Week 15: Gather feedback and identify areas for improvement.
 * Week 16: Implement feedback, improve the visualizations and usability, and prepare the final presentation.
+
+
+## Final Visualization
+
+<img width="1470" alt="Screenshot 2024-04-17 at 2 11 43 PM" src="https://github.com/Sreelikhith/dataviz-project/assets/128874576/81b4326a-b256-4a5e-9e57-e8d182ac47d8">
+(https://vizhub.com/Sreelikhith/76ebb65f368f45399ed00f176f303f79)
