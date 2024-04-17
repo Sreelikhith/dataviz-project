@@ -57,8 +57,7 @@ The visualization maintains a clean and accessible design, with a consistent col
 
 ![IMG_0422](https://github.com/Sreelikhith/dataviz-project/assets/128874576/84492609-894c-46f6-9e1e-c7cd0259bbb4)
 
-The project will feature an array of interactive visualizations, including multiple bar charts equipped with dynamic filters and selection buttons, enabling users to navigate the data with ease and precision. For example, one visualization could offer a comparative view of average salaries across job categories, with the functionality to toggle between different experience levels at the click of a button. Another might display the distribution of jobs by employment type, allowing for deeper exploration into specific regions or job categories. To further enhance user experience and coherence across these interactive elements, a unified filter panel will be introduced. This panel will allow users to refine their view across various metrics—such as job category, experience level, and region—through a singular, streamlined action. This design approach not only enriches the navigation experience but also ensures that users can easily access and interact with the data according to their specific interests and inquiries, making the complex data landscape both accessible and engaging.
-
+In my project, I will integrate a series of interactive visualizations, featuring multiple bar graphs that incorporate dynamic filters and selection buttons. These tools will allow users to explore the data accurately and efficiently. For instance, one visualization will enable a comparative analysis of average salaries across different job categories, with options to switch between various experience levels at the click of a button. Another visualization will illustrate the distribution of jobs by employment type, providing insights into specific regions or job categories. To streamline user interaction and enhance coherence across these visual elements, I will introduce a unified filter panel. This panel will facilitate the adjustment of views across several metrics such as job category, experience level, and region through a single, cohesive action. This strategic design will not only improve the user navigation experience but also ensure that the data is accessible and engaging, allowing users to tailor the information to meet their specific needs and interests.
 
 ## Prototypes
 
@@ -68,10 +67,6 @@ I’ve created a proof of concept visualization of this data.
 <img width="968" alt="Screenshot 2024-03-14 at 1 39 48 AM" src="https://github.com/Sreelikhith/dataviz-project/assets/128874576/3a1a3d58-bed7-46f7-8614-60e76baf331a">
 (https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
 
-
-## Open Questions
-
-While I am confident in the project's direction, I'm still exploring the best approaches to implement button functionality effectively in the visualizations and making the visualization responsive and intuitive for users with varying levels of familiarity with data analysis.
 
 ## Milestones
 
