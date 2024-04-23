@@ -7,15 +7,6 @@ The data I propose to visualize for my project comprises detailed information on
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-
- * How does the average salary vary across different job categories and experience levels?
- * Is there a correlation between company size and salary ranges for data field positions?
- * Are there interesting geographical patterns in where data jobs are located versus where employees reside?
- * How does the distribution of employment types (full-time, part-time, contract) and work settings (remote, in-person, hybrid) vary across different regions and job categories?
-
-## Self Critique of Initial Questions/Tasks
-
 The project is designed to address the outlined tasks and questions effectively.
 
 1. How Does the Average Salary Vary Across Different Job Categories and Experience Levels?
@@ -47,9 +38,6 @@ The project is designed to address the outlined tasks and questions effectively.
    setup enables users to examine how these aspects vary across different regions and job categories. Selecting specific employment types or 
    work settings updates the visualization to reflect the distribution of these criteria within the chosen regions or job categories.
 
-Aesthetics and Usability
-
-The visualization maintains a clean and accessible design, with a consistent color scheme and clear labeling. However, ensuring high contrast for readability and potentially simplifying complex sections could enhance aesthetics. The interface is intuitive, with interactive filters that allow easy exploration of the dataset. Tooltips enhance the usability by providing immediate context. Still, adding a brief tutorial or guide could help new users navigate the visualization more effectively.
 
 ## Sketches
 
@@ -59,26 +47,15 @@ The visualization maintains a clean and accessible design, with a consistent col
 
 In my project, I will integrate a series of interactive visualizations, featuring multiple bar graphs that incorporate dynamic filters and selection buttons. These tools will allow users to explore the data accurately and efficiently. For instance, one visualization will enable a comparative analysis of average salaries across different job categories, with options to switch between various experience levels at the click of a button. Another visualization will illustrate the distribution of jobs by employment type, providing insights into specific regions or job categories. To streamline user interaction and enhance coherence across these visual elements, I will introduce a unified filter panel. This panel will facilitate the adjustment of views across several metrics such as job category, experience level, and region through a single, cohesive action. This strategic design will not only improve the user navigation experience but also ensure that the data is accessible and engaging, allowing users to tailor the information to meet their specific needs and interests.
 
-## Prototypes
+## Visuals
 
-I’ve created a proof of concept visualization of this data.
+Line Graph
 
+[![image](https://github.com/Sreelikhith/dataviz-project/assets/128874576/81b4326a-b256-4a5e-9e57-e8d182ac47d8)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
 
-<img width="968" alt="Screenshot 2024-03-14 at 1 39 48 AM" src="https://github.com/Sreelikhith/dataviz-project/assets/128874576/3a1a3d58-bed7-46f7-8614-60e76baf331a">
-(https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
+Dynamic Bar Graph
 
-
-## Milestones
-
-* Week 9: Finalize dataset preparation and initial data analysis.
-* Week 10: Develop the prototype with basic interactivity and visualizations focusing on salary insights.
-* Week 11-12: Expand the prototype to include other visualizations and employment type distributions.
-* Week 13-14: Refine interactivity features, such as filters and toggles, to enhance user engagement and exploration.
-* Week 15: Gather feedback and identify areas for improvement.
-* Week 16: Implement feedback, improve the visualizations and usability, and prepare the final presentation.
+[![image](https://github.com/Sreelikhith/dataviz-project/assets/128874576/3a1a3d58-bed7-46f7-8614-60e76baf331a)](https://vizhub.com/Sreelikhith/76ebb65f368f45399ed00f176f303f79)
 
 
-## Final Visualization
 
-<img width="1470" alt="Screenshot 2024-04-17 at 2 11 43 PM" src="https://github.com/Sreelikhith/dataviz-project/assets/128874576/81b4326a-b256-4a5e-9e57-e8d182ac47d8">
-(https://vizhub.com/Sreelikhith/76ebb65f368f45399ed00f176f303f79)
