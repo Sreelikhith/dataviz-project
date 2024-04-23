@@ -41,11 +41,12 @@ The project is designed to address the outlined tasks and questions effectively.
 
 ## Sketches
 
+The sketch below illustrates an interactive data visualization project featuring multiple bar graphs with dynamic filters and selection buttons. Users can engage with data through visualizations like a comparative analysis of average salaries across various job categories, customizable by experience level. Another visualization shows the distribution of jobs by employment type, with filters for specific regions or categories. A unified filter panel across these visual elements allows simultaneous adjustments of views on job category, experience level, and region. This design enhances user navigation, makes data accessible and engaging, and lets users tailor information to their specific interests.
+
 ![IMG_0421](https://github.com/Sreelikhith/dataviz-project/assets/128874576/4fd291b4-11fa-4837-9322-b7225044ce76)
 
 ![IMG_0422](https://github.com/Sreelikhith/dataviz-project/assets/128874576/84492609-894c-46f6-9e1e-c7cd0259bbb4)
 
-In my project, I will integrate a series of interactive visualizations, featuring multiple bar graphs that incorporate dynamic filters and selection buttons. These tools will allow users to explore the data accurately and efficiently. For instance, one visualization will enable a comparative analysis of average salaries across different job categories, with options to switch between various experience levels at the click of a button. Another visualization will illustrate the distribution of jobs by employment type, providing insights into specific regions or job categories. To streamline user interaction and enhance coherence across these visual elements, I will introduce a unified filter panel. This panel will facilitate the adjustment of views across several metrics such as job category, experience level, and region through a single, cohesive action. This strategic design will not only improve the user navigation experience but also ensure that the data is accessible and engaging, allowing users to tailor the information to meet their specific needs and interests.
 
 ## Visuals
 
@@ -57,5 +58,5 @@ Dynamic Bar Graph
 
 [![image](https://github.com/Sreelikhith/dataviz-project/assets/128874576/81b4326a-b256-4a5e-9e57-e8d182ac47d8)](https://vizhub.com/Sreelikhith/76ebb65f368f45399ed00f176f303f79)
 
-
-
+## Closing Remarks
+In conclusion, this visualization project serves as a powerful tool for anyone interested in the dynamics of the data job market. Whether you're a job seeker, an employer, or simply curious about data-related employment trends, our interactive visualization provides valuable insights into salary variations, employment types, and geographical distributions. Thank you for your attention, and I encourage you to explore the visualization for yourself to uncover the many insights it holds.
