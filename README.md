@@ -43,9 +43,9 @@ The project is designed to address the outlined tasks and questions effectively.
 
 The sketch below illustrates an interactive data visualization project featuring multiple bar graphs with dynamic filters and selection buttons. Users can engage with data through visualizations like a comparative analysis of average salaries across various job categories, customizable by experience level. Another visualization shows the distribution of jobs by employment type, with filters for specific regions or categories. A unified filter panel across these visual elements allows simultaneous adjustments of views on job category, experience level, and region. This design enhances user navigation, makes data accessible and engaging, and lets users tailor information to their specific interests.
 
-![IMG_0421](https://github.com/Sreelikhith/dataviz-project/assets/128874576/4fd291b4-11fa-4837-9322-b7225044ce76)
+![IMG_0426](https://github.com/Sreelikhith/dataviz-project/assets/128874576/6e17f2a4-a933-4601-826a-94101c3d374d)
 
-![IMG_0422](https://github.com/Sreelikhith/dataviz-project/assets/128874576/84492609-894c-46f6-9e1e-c7cd0259bbb4)
+
 
 
 ## Visuals
