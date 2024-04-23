@@ -51,11 +51,11 @@ In my project, I will integrate a series of interactive visualizations, featurin
 
 Line Graph
 
-[![image](https://github.com/Sreelikhith/dataviz-project/assets/128874576/81b4326a-b256-4a5e-9e57-e8d182ac47d8)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
+[![image](https://github.com/Sreelikhith/dataviz-project/assets/128874576/3a1a3d58-bed7-46f7-8614-60e76baf331a)](https://vizhub.com/Sreelikhith/bd6af7bd54f0461a8b6e45d474483ace)
 
 Dynamic Bar Graph
 
-[![image](https://github.com/Sreelikhith/dataviz-project/assets/128874576/3a1a3d58-bed7-46f7-8614-60e76baf331a)](https://vizhub.com/Sreelikhith/76ebb65f368f45399ed00f176f303f79)
+[![image](https://github.com/Sreelikhith/dataviz-project/assets/128874576/81b4326a-b256-4a5e-9e57-e8d182ac47d8)](https://vizhub.com/Sreelikhith/76ebb65f368f45399ed00f176f303f79)
 
 
 
